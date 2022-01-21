@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@900&display=swap');
+
+.navbar{
+    background-color: darkmagenta;
+}
+
+.content_section{
+    font-family: Raleway;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url("../images/The_Game_Awards_2019_poster.jpg");
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.card-body{
+    color: black;
+}
+
+#carouselExampleControls{
+    margin-top: 20px;
+    padding-left: 97px;
+}
+
+.carousel-inner{
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.carousel-control-prev {
+    left: -35px;
+}
+
+.carousel-control-next {
+    right: -35px;
+}
+
+.carousel-item{
+    margin-bottom: 50px;
+}
+
+.card-title{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 24px;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.btn-primary{
+    background-color: blueviolet;
+}
+
+.container{
+    text-align: center;
+}
+
+#footer_row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#r{
+    background-color: rgba(40, 168, 234, 0.7);
+}
+
+#foot_h4{
+    font-size: 64px;
+}
